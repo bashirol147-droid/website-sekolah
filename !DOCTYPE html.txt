@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Website Resmi Sekolah</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <img src="assets/logo.png" class="logo">
+    <h1>SMA NEGERI CONTOH</h1>
+    <p>Maju • Berprestasi • Berakhlak</p>
+</header>
+
+<nav>
+    <a href="#">Beranda</a>
+    <a href="#">Profil</a>
+    <a href="#">Berita</a>
+    <a href="#">Galeri</a>
+    <a href="#">Kontak</a>
+</nav>
+
+<section class="hero">
+    <h2>Selamat Datang di Website Resmi Sekolah</h2>
+    <p>Media informasi dan komunikasi sekolah</p>
+</section>
+
+<section class="content">
+    <div class="card">
+        <h3>Profil Sekolah</h3>
+        <p>SMA Negeri Contoh berdiri sejak tahun 2000 dan berkomitmen mencetak generasi unggul.</p>
+    </div>
+
+    <div class="card">
+        <h3>Berita Terbaru</h3>
+        <ul>
+            <li>Penerimaan Peserta Didik Baru</li>
+            <li>Pengumuman Libur Semester</li>
+            <li>Juara Lomba Tingkat Nasional</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h3>Kontak</h3>
+        <p>📍 Alamat: Jl. Pendidikan No.1</p>
+        <p>📞 Telp: 08123456789</p>
+        <p>📧 Email: sekolah@email.com</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2025 SMA Negeri Contoh</p>
+</footer>
+
+</body>
+</html>
